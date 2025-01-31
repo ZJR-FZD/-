@@ -34,6 +34,7 @@ def generate_script(subject, video_length, creativity, api_key):
              整体内容的表达方式要尽量轻松有趣，吸引年轻人。
              脚本内容可以结合以下维基百科搜索出的信息，但仅作为参考，只结合相关的即可，对不相关的进行忽略：
              ```{wikipedia_search}```
+             注意：脚本长度不应该包括维基百科内容的字数。
               """)
         ]
     )
